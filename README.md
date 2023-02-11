@@ -8,4 +8,4 @@ My expertise in open-source frameworks such as HTML, CSS, JavaScript, SQL, React
 
 I relish the thrill of problem-solving and am equally comfortable working independently or in a team environment, where I can bring my ambition, focus, and productivity to the table.
 
-Feel free to <a href="https://www.linkedin.com/in/ozzierosas/">connect</a> with me, or reach out to me! <a href="mailto:ozzie.rosas@gmail.com"><b>:envelope:</b></a>
+Feel free to connect with me on <a href="https://www.linkedin.com/in/ozzierosas/">LinkedIn</a>, or reach out to me <a href="mailto:ozzie.rosas@gmail.com">directly!:envelope:</a>
