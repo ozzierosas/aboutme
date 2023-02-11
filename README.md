@@ -1,12 +1,11 @@
 
 
-<h1>:wave: Hello There! I'm Ozzie!</h1>
-<br/>
-I am a Full Stack Software Engineer who is skilled in troubleshooting and resolving problems. 
-<br/><br/>
-I pride myself on a strong work ethic, positive attitude, a driven motivation to learn, and being a team player. I am highly ambitious; able to be focused and productive in challenging situations.
-<br/><br/>
-Currently experienced working jQuery and React.js ES6 for front-end JavaScript frameworks, ASP.NET Core 6.0 in C# for server development. I am familiar with MS SQL Server (SSMS )for backend database design and structuring. I have worked in an agile / SCRUM environment with daily stand-up, and code review.
-<br/><br/>
-Feel free to reach out to me <a href="https://www.linkedin.com/in/ozzierosas/"><b>:envelope:</b></a>
+# :wave: Hello There! I'm Ozzie!
 
+As a full-stack software engineer, I bring my passion for technology to life by designing and delivering robust and scalable solutions that solve problems. 
+
+My expertise in open-source frameworks such as HTML, CSS, JavaScript, SQL, React, and .NET, combined with my strong work ethic, positive attitude, and drive to continuously learn, make me an asset to any team. 
+
+I relish the thrill of problem-solving and am equally comfortable working independently or in a team environment, where I can bring my ambition, focus, and productivity to the table.
+
+Feel free to <a href="https://www.linkedin.com/in/ozzierosas/">connect</a> with me, or reach out to me! <a href="mailto:ozzie.rosas@gmail.com"><b>:envelope:</b></a>
